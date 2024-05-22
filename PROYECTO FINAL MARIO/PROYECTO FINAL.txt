@@ -1,0 +1,102 @@
+<HTML>
+<HEAD>
+<TITLE> Practica13PaginaMusica2</TITLE>
+</HEAD>
+<BODY BGCOLOR="00008B">
+<bg sound src="musicafondo.wav" loop="10"></bgsound>
+<TABLE BGCOLOR="00008B" BORDER="2" CELLPADDING="3" CELLSPACING="10" BORDERCOLOR=
+"red">
+
+<CAPTION ALIGN="TOP"> <img src"musica anim.gif" width="80" height="120" align="left"><FONT
+COLOR="#FFFF00" SIZE = "5" FACE="Arial Rounded MT Bold"> <b> MI MUSICA, CANTANTES Y ARTISTAS
+<br> FAVORITOS </b></FONT> <img src="manos.jpg" widht="90" height="90" align="right"><img 
+src="cantando.jpg" width="90" height="90" align="right"></CAPTION><br></br>
+
+<tr align="center"> <td> <a href="Practica13PaginaMusica1 BotonMusica1.html"> <img src="musica1.jpg" 
+width="90" height="40"></a> </td> 
+<td><a href="Practica13PaginaMusicaBotonVideo1.html"> <img src="video1.jpg" width="80" height="40"> </a>
+</td> 
+<td><a href="Practica13PaginaMusicaBotonVideo2.html"> <img src="video2.jpg" width="80" height="40"> 
+</a> </td> 
+<td> <a href="http://www.radiocentro.com.mx/" target="_blank"><img src="radio1jpg" width="80" 
+height="40"></a></td>
+<td><a href=http://www.radioformula.com.mx/" target="_blank"><img src="radio2.jpg" width="80" 
+height="40"> </a></td></tr> 
+
+<tr> <th BG COLOR="white" Colspan="2"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b> 
+Cantantes Famosos </b></FONT> </th> 
+<td width="8%"> </td> 
+<th BGCOLOR="white"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b> Noticias </b></FONT> </th> 
+<th BGCOLOR="white"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow"> <b> Peliculas </b> 
+</FONT></th></tr> 
+
+<tr> <td align="center"> <img src="enrique_iglesias.jpg" align="center" width="150" height="250"></td> 
+<td width ="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Enrique Iglesias ha conquistado
+buena parte del mercado latino, americano, europeo y asiatico, es un habitual ganador de premios
+Grammy. Nacio en Madrid en 1975, es hijo del destacado cantante español Julio Iglesias. En 1996, lanzo su 
+primer album en español y desde entonces tiene muchisimos sencillos la mayoria de las cuales son exitos. 
+Albumes- Escape 2002, Quizas, Seven 2003, etc. Canciones: Enamorado por primera vez, Mentirosa, Si tu 
+te vas, Bailamos, etc. </FONT> </td>
+<td width="8%"> <embed src="musicaincrustada.wav" width="80" height="50" autoplay="true" loop="5"> <img
+src="sonido anim.gif" align="center" width="50" height="50"> </embed></td> 
+</td>
+<td align="center"><a href="http://www.eluniversal.com.mx/noticias.html" target="_blank"><img
+src="Universal.jpg" width="80" height="30"></a></td>
+<td align="center"><a href="http://www.cinemex.com.mx/" target="_blank"> <img src="cinemex.jpg" 
+width="80" height="80"> </a> </td> </tr>
+
+<tr> <td align="center"> <img src="Shakira.jpg" width="150" height="250"></td> 
+<td width="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Shakira nacio en 1977 en 
+Colombia. En arabe Shakira significa "mujer llena de gracia", y para los hindues significa "diosa de la luz". 
+Dio sus primeros pasos en el mundo del espectaculo a los 5 años de edad. Siendo todavia adolescente, 
+firmo su primer contrato con Sony Music Colombia y desde este momento no ha parado de asombrarnos
+con sus canciones. Tiene varias nominaciones Grammy. Albumes: Pies Descalzos, ¿Donde estan los 
+ladrones?, Laundry Service, Fijacion Oral Vol.1 y 2. Algunos de sus exitos son: Estoy aqui, Un poco de amor, 
+Si te vas, ¿Donde estas corazon=, Estoy aqui, Ciega, Sordomuda, Tu, etc. </FONT> </td>
+<td width="10%">
+<td align="center"> <a href="http://www.reforma.com" target="_blank"> <img src="Reforma.jpg" width="80" 
+height="30"> </a> </td>
+<td align="center"><a href="http://www.cinepolis.com.mx/" target="_blank"> <img src="cinepolis.jpg" 
+width="80" height="80"> </a></td>
+</tr> 
+
+<tr> <td align="center">img src="Paulina.jpg" align="center" width="150" height="250"></td>
+<td width="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Paulina Susana Rubio 
+Dosamantes nacio en 1971 en la Ciudad de Mexico, es una cantante y actriz mexicana. Su musica es
+conocida en Ibero America y tambien tiene seguidores en los Estados Unidos, Europa, Asia y Oceania. Ha
+vendido mas de 17 millones de albumes alrededor del mundo. Es una de las artistas mexicanas que mayor 
+ventas ha tenido y una de las cantantes mas reconocidas en el mundo hispano. Sus ultimos exitos son los 
+sencillos Mio, Amor de Mujer, Enamorada, El me engaño, Sangre Latina, Miel y Sal, Vuelve junto a mi, Solo
+por ti, Besame en la boca, Tu y yo, Te daria mi vida y muchos otros. Aparte de cantante es actriz, tiene 
+papeles en varias telenovelas.</FONT> </td>
+<td width="8%"><img src="periodico1.jpg" align="center" width="150" height="90"> </td>
+
+<td align="center"><a href="http://www.heraldo.com.mx/" target="_blank"> <img src="Heraldo.jpg" 
+width="80" height="30"> </td>
+<td align="center"> 
+<img src="cinemark.jpg" width="80" height="80"> </a> </td> </tr> 
+
+<tr> <td align="center"><img src="Ricky_Martin.jpg" align="center" width="150" height="250"></td>
+<td width="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Ricky Martin nacio en 1971. En 
+1984 entro en el grupo de "Menudo", con quienes viajo por todo Sudamerica recabando grande exitos. En 
+1990 se fue a Mexico, para trabajar en un obra de teatro con la que obtuvo un notable triunfo. El 
+estrellato lo alcanzo a raiz de su intervencion en la serie 'Alcanzar una estrella'. A partir de ahi le 
+empezaron a llover las ofertas. Tuvo conciertos con gran exito en toda la America y en Europa. Ha editado 
+varios discos que cuentan con el apoyo del publico. La carrera de exitos de este joven atrevido continua sin 
+cesar y segurro que pronto nos sorprende con algo nuevo. En 1999 gano el Grammy, Albumes - The Best of
+Ricky Martin, Almas del silencio 2003, Life 2005, etc. Algunos de sus exitos son: Livin la Vida Loca, Vuelve, 
+Shake your Bon-Bon, La Bomba, Hagamos el amor, La copa de la vida, etc. </FONT> </td> 
+
+<td width="8%"> <img src="perro anim.gif" width="60" height="80"> <FONT COLOR="white" SIZE="3" 
+FACE="Arial" align="center"><a href="../Practica 11/Principal11principalA4.html"> Regresar al curriculum 
+</FONT> </a> </td> 
+
+<td align="center"> <a href="http://www.excelsiorinternet.com/" target="_blank"> <img src="Excelsior.jpg"
+width="80" height="30"> </a> </td> 
+<td align="center"> <img src="pelicula.jpg" width="90" height="150"> </td> </tr>  
+
+</TABLE>
+</BODY>
+</HTML>
+
+
